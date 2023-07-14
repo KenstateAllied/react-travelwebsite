@@ -10,34 +10,34 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem 
-            src="img-9.jpg"
-            text="Explore the hidden waterfall deep inside the Amazon Jungle"
+            src="salion.jpg"
+            text="See what South Africa has to offer"
             label="Adventure"
             path="/services/activity"
             ></CardItem>
             <CardItem 
-            src="img-2.jpg"
-            text="Travel through the Islands of Bali in a Private Cruise"
-            label="Luxury"
+            src="tz.jpg"
+            text="Tanzania twasema karibu!"
+            label="Safari"
             path="/services/activity"
             ></CardItem>
           </ul>
           <ul className='cards__items'>
             <CardItem 
-            src="img-4.jpg"
-            text="Experience Football on Top of the Himalayan Mountains"
+            src="senegal.jpg"
+            text="Senegal in style"
             label="Adventure"
             path="/services/activity"
             ></CardItem>
             <CardItem 
-            src="img-3.jpg"
-            text="Set a Sail in the Atlantic ocean visiting Uncharted Waters"
+            src="ug.jpg"
+            text="Uganda na kiganda"
             label="Mystery"
             path="/services/activity"
             ></CardItem>
             <CardItem 
-            src="img-8.jpg"
-            text="Ride through the Sahara Desert on a guided camel tour"
+            src="ng.jpg"
+            text="Nigeria it is"
             label="Adrenaline"
             path="/services/activity"
             ></CardItem>
