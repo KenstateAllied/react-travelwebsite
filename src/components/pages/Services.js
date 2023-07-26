@@ -9,40 +9,40 @@ import './Services.css';
 export default function Services() {
   return (
     <>
-      <h1 className='services'>SERVICES</h1>
+      <h1 className='services'>Hotels in Eldoret</h1>
       <section className='heading'>
-        <h2>Activities we think you would enjoy</h2>
+        <h2>Hotel rooms in town will very be limited  </h2>
         <div className='services-container'>
           <div className='services-wrapper'> 
           <ul className='services-items'>
             <CardItem 
-              src="mara.jpg"
-              text="Explore the hidden waterfall deep inside the Amazon Jungle"
-              label="Adventure"
+              src="cicada.jpg"
+              text="Cicada"
+              label="Safari"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="lion.jpg"
-              text="Travel through the Islands of Bali in a Private Cruise"
-              label="Luxury"
+              src="comfy.jpg"
+              text="Comfy"
+              label="Safari"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="safari.jpg"
-              text="Experience Football on Top of the Himalayan Mountains"
-              label="Adventure"
+              src="greenwood.webp"
+              text="Greenwood Resort"
+              label="Safari"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="safari2.jpg"
-              text="Set a Sail in the Atlantic ocean visiting Uncharted Waters"
-              label="Mystery"
+              src="pearl.jpg"
+              text="The Pearl of Eldoret"
+              label="Safari"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="whitesand.jpg"
-              text="Ride through the Sahara Desert on a guided camel tour"
-              label="Adrenaline"
+              src="marriot.jpg"
+              text="Marriot"
+              label="Safari"
               path="/services/activity"
             ></CardItem>
           </ul>
@@ -51,38 +51,38 @@ export default function Services() {
       </section>
 
       <section className='heading'>
-        <h2>Explore these destinations</h2>
+        <h2>Book early, call price details & deals</h2>
         <div className='services-container'>
           <div className='services-wrapper'> 
           <ul className='services-items'>
             <CardItem 
-              src="southafrica.jpg"
-              text="Budapest, Hungary"
-              label="Europe"
+              src="riverside.jpg"
+              text="Riverside"
+              label="Safari"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="safaribabes.jpg"
-              text="Lisbon, Portugal"
-              label="Europe"
+              src="babel.jpg"
+              text="Babel @ West"
+              label="Safari"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="safari2.jpg"
-              text="Berlin, Germany"
-              label="Europe"
+              src="relax.jpg"
+              text="Relax Inn"
+              label="Safari"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="destination-4.jpg"
-              text="London, England"
-              label="Europe"
+              src="samich.jpg"
+              text="Samich Resort"
+              label="Safari"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="destination-5.jpg"
-              text="Delft, Holland"
-              label="Europe"
+              src="comfy.jpg"
+              text="Hotel Comfy"
+              label="Safari"
               path="/services/activity"
             ></CardItem>
           </ul>
@@ -91,6 +91,7 @@ export default function Services() {
       </section>
       <Footer />
     </>
+  
   
   
   );

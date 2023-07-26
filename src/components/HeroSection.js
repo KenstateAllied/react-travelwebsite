@@ -14,24 +14,31 @@ function HeroSection() {
 
 
   return (
+
+    
+    
     <div className='hero-container'>
-      <video src='/videos/video-1.mp4' autoPlay loop muted />
-      <h1>ADVENTURE AWAITS</h1>
-      <p>What are you waiting for?</p>
+
+<div className='eldy-pic'>
+      <img src='/images/ugemb.jpg' alt='HOME OF CHAMPIONS' /></div>
+      
+      <h2>Uasin Gishu County welcomes you to the 8th Devolution Conference</h2>
+      <p1>Need a website? visit www.kenstate-web.netlify.app</p1>
+      <p2>Click, enter city and select dates</p2>
 
       <form className='search'>
           <div className='search-container'>
-            <label >Where are you going?</label>
+            <label >Hotel, Airbnb and all?</label>
             <input id='location' type='text' placeholder='Search your location' />
           </div>
           <div className='row-container'>
 
             <div className='search-container'>
-              <label>Check in</label>
+              <label>Check in date</label>
               <input id='check-in' type='date' />
             </div>
             <div className='search-container'>
-              <label>Check out</label>
+              <label>Check out date</label>
               <input id='check-out' type='date' />
             </div>
 
@@ -42,7 +49,7 @@ function HeroSection() {
                 type='submit'
                 onClick={routeChange}
               >
-                Explore
+                Enjoy your stay
               </button>
           </div>
       </form>

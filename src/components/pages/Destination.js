@@ -8,8 +8,8 @@ export default function Destination() {
       </div>
       <div className='destination-container'>
         <div className='info-wrapper'>
-          <h2>Explore the hidden waterfall inside the Amazon Jungle</h2>
-          <p>Visit the Amazon Jungle, admire the hidden waterfalls, and enjoy a kayak tour while gliding through the pea-green water and vines to reach glistening rocks and water vapour glinting in the sunlight. Join this real adventurous thrill with us!</p>
+          <h2>Explore the treasures of Maasai Mara</h2>
+          <p>Up and close with the king of the jungle!</p>
 
           <h3>Experience</h3>
           <h4>Highlights</h4>
@@ -30,7 +30,7 @@ export default function Destination() {
           <div className='booking-wrapper'>
             <section className='booking-info'>
               <h5>From</h5>
-              <p className='price'>€ 78</p>
+              <p className='price'>ksh 5000</p>
               <p className='per-person'>per person</p>
             </section>
             <button type='button' className='btn-book'>Book now</button>

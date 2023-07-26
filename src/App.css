@@ -17,7 +17,7 @@
 }
 
 .services {
-  background-image: url('../public/images/egy.jpg');
+  background-image: url('../public/images/eldoret.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -90,7 +90,7 @@ h4 {
   width: 350px;
   height: fit-content;
   padding: 1.4rem;
-  border: 2px solid #242424;
+  border: 2px solid #49413F;
   border-radius: 5px;
 }
 
@@ -114,14 +114,14 @@ h4 {
   padding: 12px 26px;
   border-radius: 2px;
   outline: none;
-  border: 1px solid #242424;
+  border: 1px solid #49413F;
   color: #fff;
-  background-color: #242424;
+  background-color: #49413F;
 }
 
 .btn-book:hover {
   background-color: #fff;
-  color: #242424;
+  color: #49413F;
 }
 
 /*Sign up Page*/
@@ -154,7 +154,7 @@ h4 {
 
 .sign-up__container {
   background: #fff;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 30px #49413F;
   width: 500px;
   height: auto;
   display: flex;
@@ -193,8 +193,8 @@ h4 {
   margin: 1.5rem auto 0;
   border-radius: 2px;
   font-size: 20px;
-  border: 1px solid #242424;
-  background-color: #242424;
+  border: 1px solid #49413F;
+  background-color: #49413F;
   color: #fff;
   cursor: pointer;
 }

@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Join the Adventure newsletter to receive our best vacation deals
+          Join the travel newsletter to receive best vacation deals
         </p>
         <p className='footer-subscription-text'>
           You can unsubscribe at any time.
@@ -29,27 +29,22 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>About Us</h2>
-            <Link to='/sign-up'>How it works</Link>
-            <Link to='/'>Testimonials</Link>
+             <Link to='/'>Testimonials</Link>
             <Link to='/'>Careers</Link>
             <Link to='/'>Investors</Link>
-            <Link to='/'>Terms of Service</Link>
+           
           </div>
           <div className='footer-link-items'>
             <h2>Contact Us</h2>
-            <Link to='/'>Contact</Link>
-            <Link to='/'>Support</Link>
-            <Link to='/'>Destinations</Link>
-            <Link to='/'>Sponsorships</Link>
+            <Link to='/'>Email kenstatellc@gmal.com</Link>
+            <Link to='/'>Tel & whatsapp + 254 724 052 417</Link>
+            
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
-            <h2>Videos</h2>
-            <Link to='/'>Submit Video</Link>
-            <Link to='/'>Ambassadors</Link>
-            <Link to='/'>Agency</Link>
-            <Link to='/'>Influencer</Link>
+            
+            
           </div>
           <div className='footer-link-items'>
             <h2>Social Media</h2>
@@ -64,10 +59,10 @@ function Footer() {
         <div className='social-media-wrap'>
           <div className='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVL <i className="fab fa-gripfire"></i>
+              HOTEL BOOKING <i className="fab fa-gripfire"></i>
             </Link>
           </div>
-          <small className='website-rights'>TRVL © 2022</small>
+          <small className='website-rights'>KenTours product of Kenstate Allied © 2023 All rights reserved</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link facebook'

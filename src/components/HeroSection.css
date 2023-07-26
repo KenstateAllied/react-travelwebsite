@@ -6,14 +6,17 @@ video {
   z-index: -1;
 }
 
+
+
 .hero-container {
+  
   height: 100vh;
   width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.2);
+  box-shadow: inset 0 0 0 1000px rgba#49413F;
   object-fit: contain;
 
 }
@@ -35,17 +38,17 @@ video {
   padding: 12px 26px;
   border-radius: 2px;
   outline: none;
-  border: 1px solid #242424;
+  border: 1px solid #49413F;
   cursor: pointer;
-  background-color: #242424;
+  background-color: #49413F;
   color: #fff;
   font-size: 20px;
 }
 
 .hero-btn:hover {
   background-color: #fff;
-  color: #242424;
-  border: 1px solid #242424;
+  color: #49413F;
+  border: 1px solid #49413F;
 }
 
 .search {
@@ -54,7 +57,7 @@ video {
   padding: 0.8rem 0.4rem;
   border-radius: 0.5rem;
   background: #fff;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 30px rgba#49413F;
 
 }
 
@@ -68,7 +71,7 @@ video {
 
 .search-container > label {
   font-size: 1.3rem;
-  color: #242424;
+  color: #49413F;
   padding-bottom: 0.6rem;
 }
 
@@ -76,7 +79,7 @@ video {
   background-color: transparent;
   border: none;
   border-bottom: 2px solid #fff;
-  color: #242424;
+  color: #49413F;
   padding: 0.2rem;
   border-radius: 0.2rem;
   font-size: 1rem;
@@ -85,7 +88,7 @@ video {
 .search-container > input[type="date"] {
   padding-left: 1rem;
   border: none;
-  color: #242424;
+  color: #49413F;
 }
 
 .search-container > input::placeholder {
@@ -94,7 +97,7 @@ video {
 
 
 .search-container > input:focus {
-  outline: 1px solid #242424;
+  outline: 1px solid #49413F;
 }
 
 .row-container {
@@ -114,7 +117,7 @@ video {
 
   .search-container > label {
     font-size: 1rem;
-    color: #242424;
+    color: #49413F;
     padding-bottom: 0.4rem;
   }
 
@@ -162,7 +165,7 @@ video {
 
   .search-container > label {
     font-size: 1.2rem;
-    color: #242424;
+    color: #49413F;
     padding-bottom: 0.4rem;
   }
 
