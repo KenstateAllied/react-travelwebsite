@@ -22,9 +22,9 @@ function HeroSection() {
 <div className='eldy-pic'>
       <img src='/images/ugemb.jpg' alt='HOME OF CHAMPIONS' /></div>
       
-      <h2>Uasin Gishu County welcomes you to the 8th Devolution Conference</h2>
+      <h2>Uasin Gishu County welcomes you to the 8th Devolution Conference Aug 16-19</h2>
       <p1>Need a website? visit www.kenstate-web.netlify.app</p1>
-      <p2>Click, enter city and select dates</p2>
+      <p2>Click & enter your city and select dates</p2>
 
       <form className='search'>
           <div className='search-container'>

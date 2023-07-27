@@ -9,9 +9,9 @@ import './Services.css';
 export default function Services() {
   return (
     <>
-      <h1 className='services'>Hotels in Eldoret</h1>
+      <h1 className='services'>Hotels in the city Eldoret</h1>
       <section className='heading'>
-        <h2>Hotel rooms in town will very be limited  </h2>
+        <h2>Hotel rooms are limited for such an event. We advice early bookings </h2>
         <div className='services-container'>
           <div className='services-wrapper'> 
           <ul className='services-items'>
@@ -51,7 +51,7 @@ export default function Services() {
       </section>
 
       <section className='heading'>
-        <h2>Book early, call price details & deals</h2>
+        <h2>Call for price details & deals</h2>
         <div className='services-container'>
           <div className='services-wrapper'> 
           <ul className='services-items'>

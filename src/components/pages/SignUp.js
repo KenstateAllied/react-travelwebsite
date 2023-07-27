@@ -20,7 +20,7 @@ export default function SignUp() {
           </form>
 
           <div>
-            <p className='have-account'>Have an ? <span>Log In here </span></p>
+            <p className='have-account'>Have an account ? <span>Log In here </span></p>
           </div>
         </div>
 
