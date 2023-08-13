@@ -20,7 +20,7 @@ function HeroSection() {
     <div className='hero-container'>
 
 <div className='eldy-pic'>
-      <img src='/images/ugemb.jpg' alt='HOME OF CHAMPIONS' /></div>
+      <img src='/images/devcon.png' alt='HOME OF CHAMPIONS' /></div>
       
       <h2>Uasin Gishu County welcomes you to the 8th Devolution Conference Aug 16-19</h2>
       <p1>Need a website? visit www.kenstate-web.netlify.app</p1>
