@@ -45,6 +45,12 @@ export default function Services() {
               label="Safari"
               path="/services/activity"
             ></CardItem>
+            <CardItem 
+              src="royalton.jpg"
+              text="royalton"
+              label="Safari"
+              path="/services/activity"
+            ></CardItem>
           </ul>
           </div>
         </div>
