@@ -22,14 +22,18 @@ function HeroSection() {
 <div className='eldy-pic'>
       <img src='/images/devcon.png' alt='HOME OF CHAMPIONS' /></div>
       
-      <h2>Uasin Gishu County welcomes you to the 8th Devolution Conference Aug 16-19</h2>
-      <p1>Need a website? visit www.kenstate-web.netlify.app</p1>
-      <p2>Click & enter your city and select dates</p2>
+      <h2>Uasin Gishu County welcomes you all to the 8th Devolution Conference Aug 16-19</h2>
+
+      <p1> We are a Digital Marketing firm based in Eldoret Kenya</p1>
+
+      <p1>Need a website or app? visit www.kenstate-web.netlify.app</p1>
+
+      <p2> Need to hire a car? Call us now at +254 724 052 417 </p2>
 
       <form className='search'>
           <div className='search-container'>
-            <label >Hotel, Airbnb and all?</label>
-            <input id='location' type='text' placeholder='Search your location' />
+            <label >Looking for Hotel, Airbnb and all? </label>
+            <input id='location' type='text' placeholder='Click to Search' />
           </div>
           <div className='row-container'>
 
@@ -49,7 +53,7 @@ function HeroSection() {
                 type='submit'
                 onClick={routeChange}
               >
-                Enjoy your stay
+                Select & Enjoy your stay
               </button>
           </div>
       </form>
