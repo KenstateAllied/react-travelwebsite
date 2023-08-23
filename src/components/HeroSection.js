@@ -20,9 +20,9 @@ function HeroSection() {
     <div className='hero-container'>
 
 <div className='eldy-pic'>
-      <img src='/images/devcon.png' alt='HOME OF CHAMPIONS' /></div>
+      <img src='/images/ruto_mara1.jpg' alt='MAGICAL KENYA' /></div>
       
-      <h2>Uasin Gishu County welcomes you all to the 8th Devolution Conference Aug 16-19</h2>
+      <h2>Its the wildbeast migration at the MAASAI MARA. One of the eighth wonders of the world</h2>
 
       <p1> We are a Digital Marketing firm based in Eldoret Kenya</p1>
 
