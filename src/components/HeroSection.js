@@ -20,9 +20,9 @@ function HeroSection() {
     <div className='hero-container'>
 
 <div className='eldy-pic'>
-      <img src='/images/ruto_mara1.jpg' alt='MAGICAL KENYA' /></div>
+      <img src='/images/eldoret.jpg' alt='MAGICAL KENYA' /></div>
       
-      <h2>Its the wildbeast migration at the MAASAI MARA. One of the eighth wonders of the world</h2>
+      <h2>Senate approves ELDORET to become Kenya's 5th City</h2>
 
       <p1> We are a Digital Marketing firm based in Eldoret Kenya</p1>
 
