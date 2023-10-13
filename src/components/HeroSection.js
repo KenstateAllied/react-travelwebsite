@@ -1,5 +1,5 @@
-import React from 'react'
-import { Link } from 'react-router-dom';
+import React, { Component } from 'react'
+import { Link, Route } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import '../App.css';
 import './HeroSection.css';
@@ -24,15 +24,22 @@ function HeroSection() {
       
       <h2>COUNTY OF KERICHO 035 WELCOMES YOU TO THE MASHUJAA DAY 2023</h2>
 
-      
-      <p1>Need a website, app or have a software development project? </p1>visit
-      
-            <Link to="https://kenstate-web.netlify.app">Kenstate-web.netlify.app</Link>
-                   
-        
-      <p2> Need to buy/ hire, cars, tractors, implements or spares? </p2>visit
+     
 
-      <Link to="https://autotrac.netlify.app">autotrac.netlify.app</Link>
+     
+      
+      <Link to="https://kenstate-web.netlify.app">
+      <p1>Need a website, app or have a software development project? Click to visit kenstate.netlify.app</p1>
+      </Link><br />
+    
+      <Link to="https://autotrac.netlify.app">      
+      <p2> Need to buy/ hire, cars, tractors, implements or spares? Click to visit autotrac.netlify.app </p2>
+      </Link><br />
+      
+
+      
+
+      <p3>or call whatsapp +254 724 052 417</p3>
       
             <form className='search'>
           <div className='search-container'>
