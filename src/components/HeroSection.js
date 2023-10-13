@@ -24,7 +24,7 @@ function HeroSection() {
       
       <h2>COUNTY OF KERICHO 035 WELCOMES YOU TO THE MASHUJAA DAY 2023</h2>
           
-      <Link to="https://kenstate-web.netlify.app">
+ {/*}   <Link to="https://kenstate-web.netlify.app">
       <p1>Need a website, app or have a software development project? Click to visit kenstate.netlify.app</p1>
       </Link>
     
@@ -33,7 +33,7 @@ function HeroSection() {
       </Link>
         
       <p3>or whatsapp +254 724 052 417</p3>
-      
+  */}
             <form className='search'>
           <div className='search-container'>
             <label >Looking for Hotel, Airbnb and all? </label>
