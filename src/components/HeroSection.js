@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import { Link, Route } from 'react-router-dom';
+//import React, { Component } from 'react'
+//import { Link, Route } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import '../App.css';
 import './HeroSection.css';
