@@ -1,5 +1,5 @@
 import React from 'react'
-
+import { Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import '../App.css';
 import './HeroSection.css';
@@ -24,19 +24,17 @@ function HeroSection() {
       
       <h2>COUNTY OF KERICHO 035 WELCOMES YOU TO THE MASHUJAA DAY 2023</h2>
 
-      <p1> We are currently looking for bnb rooms around kericho and Bomet counties</p1>
-
-      <p1> Have some whatsapp us </p1>
-
-      <p1>Need a website or app? </p1>
-        
-        <p1>visit https://kenstate-web.netlify.app and make an order</p1>
-
-      <p2> Need to hire a car? Shopping for automobiles, tractors or spares? </p2>
       
-      <p2> visit https://autotrac.netlify.app  </p2>
+      <p1>Need a website, app or have a software development project? </p1>visit
+      
+            <Link to="https://kenstate-web.netlify.app">Kenstate-web.netlify.app</Link>
+                   
+        
+      <p2> Need to buy/ hire, cars, tractors, implements or spares? </p2>visit
 
-      <form className='search'>
+      <Link to="https://autotrac.netlify.app">autotrac.netlify.app</Link>
+      
+            <form className='search'>
           <div className='search-container'>
             <label >Looking for Hotel, Airbnb and all? </label>
             <input id='location' type='text' placeholder='Click to Search' />
