@@ -1,5 +1,5 @@
 //import React, { Component } from 'react'
-//import { Link, Route } from 'react-router-dom';
+import { Link, Route } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import '../App.css';
 import './HeroSection.css';
@@ -23,17 +23,22 @@ function HeroSection() {
       <img src='/images/kericho.jpg' alt='MAGICAL KENYA' /></div>
       
       <h2>COUNTY OF KERICHO 035 WELCOMES YOU TO THE MASHUJAA DAY 2023</h2>
-          
- {/*}   <Link to="https://kenstate-web.netlify.app">
+
+     <p1> We are an IT firm using latest cutting edge technologies for web and App software development</p1>
+
+                visit us at https://kenstate-web.netlify.app
+
+       
+            <p2>    We also move the market in cars, tractors,implements and spares trading and sales in Kenya </p2>
+                 visit us at https://autotrac.netlify.app
+   { /*<Link to="https://kenstate-web.netlify.app"> Need a website or app? Click to visit kenstate-web.netlify.app </Link>
       <p1>Need a website, app or have a software development project? Click to visit kenstate.netlify.app</p1>
-      </Link>
-    
+          
       <Link to="https://autotrac.netlify.app">      
-      <p2> Need to buy/ hire, cars, tractors, implements or spares? Click to visit autotrac.netlify.app </p2>
-      </Link>
-        
+      <p2> Need to buy/ hire, cars, tractors, implements or spares? Click to visit autotrac.netlify.app </p2></Link>
+  */ }   
       <p3>or whatsapp +254 724 052 417</p3>
-  */}
+  
             <form className='search'>
           <div className='search-container'>
             <label >Looking for Hotel, Airbnb and all? </label>
