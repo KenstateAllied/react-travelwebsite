@@ -23,11 +23,7 @@ function HeroSection() {
       <img src='/images/kericho.jpg' alt='MAGICAL KENYA' /></div>
       
       <h2>COUNTY OF KERICHO 035 WELCOMES YOU TO THE MASHUJAA DAY 2023</h2>
-
-     
-
-     
-      
+          
       <Link to="https://kenstate-web.netlify.app">
       <p1>Need a website, app or have a software development project? Click to visit kenstate.netlify.app</p1>
       </Link><br />
@@ -35,11 +31,8 @@ function HeroSection() {
       <Link to="https://autotrac.netlify.app">      
       <p2> Need to buy/ hire, cars, tractors, implements or spares? Click to visit autotrac.netlify.app </p2>
       </Link><br />
-      
-
-      
-
-      <p3>or call whatsapp +254 724 052 417</p3>
+        
+      <p3>or whatsapp +254 724 052 417</p3>
       
             <form className='search'>
           <div className='search-container'>
