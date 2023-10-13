@@ -26,11 +26,11 @@ function HeroSection() {
           
       <Link to="https://kenstate-web.netlify.app">
       <p1>Need a website, app or have a software development project? Click to visit kenstate.netlify.app</p1>
-      </Link><br />
+      </Link>
     
       <Link to="https://autotrac.netlify.app">      
       <p2> Need to buy/ hire, cars, tractors, implements or spares? Click to visit autotrac.netlify.app </p2>
-      </Link><br />
+      </Link>
         
       <p3>or whatsapp +254 724 052 417</p3>
       
