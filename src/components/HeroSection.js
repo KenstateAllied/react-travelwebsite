@@ -22,15 +22,19 @@ function HeroSection() {
 <div className='eldy-pic'>
       <img src='/images/kericho.jpg' alt='MAGICAL KENYA' /></div>
       
-      <h2>COUNTY OF KERICHO 035 WELCOMES YOU TO THE MASHUJAA DAY OCT 20 2023</h2>
+      <h2>COUNTY OF KERICHO 035 WELCOMES YOU TO THE MASHUJAA DAY 2023</h2>
 
       <p1> We are currently looking for bnb rooms around kericho and Bomet counties</p1>
 
-      <p1> Have some call us at +254 724 052 417</p1>
+      <p1> Have some whatsapp us </p1>
 
-      <p1>Need a website or app? visit www.kenstate-web.netlify.app</p1>
+      <p1>Need a website or app? </p1>
+        
+        <p1>visit https://kenstate-web.netlify.app and make an order</p1>
 
-      <p2> Need to hire a car? Call us now  </p2>
+      <p2> Need to hire a car? Shopping for automobiles, tractors or spares? </p2>
+      
+      <p2> visit https://autotrac.netlify.app  </p2>
 
       <form className='search'>
           <div className='search-container'>

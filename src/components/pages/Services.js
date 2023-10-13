@@ -9,46 +9,46 @@ import './Services.css';
 export default function Services() {
   return (
     <>
-      <h1 className='services'>Hotels in the city Eldoret</h1>
+      <h1 className='services'>Hotels in kenya </h1>
       <section className='heading'>
-        <h2>Hotel rooms are limited for such an event. We advice early bookings </h2>
+        <h2>Wherever you are in Kenya you can use our portal to book for a hotel conveniently </h2>
         <div className='services-container'>
           <div className='services-wrapper'> 
           <ul className='services-items'>
             <CardItem 
-              src="cicada.jpg"
-              text="Cicada"
-              label="Safari"
+              src="teaH.jpg"
+              text="Kericho"
+              label="Kericho Tea Hotel"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="comfy.jpg"
-              text="Comfy"
-              label="Safari"
+              src="royal.jpg"
+              text="Bungoma"
+              label="Royal"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="greenwood.webp"
-              text="Greenwood Resort"
-              label="Safari"
+              src="park.jpg"
+              text="Embu"
+              label="Park"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="pearl.jpg"
-              text="The Pearl of Eldoret"
-              label="Safari"
+              src="nomad.jpg"
+              text="Garissa"
+              label="Nomad"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="marriot.jpg"
-              text="Marriot"
-              label="Safari"
+              src="coldsprings.jpg"
+              text="Homa Bay"
+              label="Cold Springs"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="royalton.jpg"
-              text="royalton"
-              label="Safari"
+              src="golf.jpg"
+              text="Kakamega"
+              label="Golf"
               path="/services/activity"
             ></CardItem>
           </ul>
@@ -62,33 +62,33 @@ export default function Services() {
           <div className='services-wrapper'> 
           <ul className='services-items'>
             <CardItem 
-              src="riverside.jpg"
-              text="Riverside"
-              label="Safari"
+              src="phoenicia.jpg"
+              text="Kiambu"
+              label="Phoenicia"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="babel.jpg"
-              text="Babel @ West"
-              label="Safari"
+              src="abai.jpg"
+              text="Kirinyaga"
+              label="Abai"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="relax.jpg"
-              text="Relax Inn"
-              label="Safari"
+              src="royalswiss.webp"
+              text="Kisumu"
+              label="Royal Swiss"
               path="/services/activity"
             ></CardItem>
             <CardItem 
               src="samich.jpg"
-              text="Samich Resort"
-              label="Safari"
+              text="Elgeyo Marakwet"
+              label="Samich Resort"
               path="/services/activity"
             ></CardItem>
             <CardItem 
-              src="comfy.jpg"
-              text="Hotel Comfy"
-              label="Safari"
+              src="sankara.jpg"
+              text="Nairobi"
+              label="Sankara"
               path="/services/activity"
             ></CardItem>
           </ul>

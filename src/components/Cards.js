@@ -5,40 +5,40 @@ import './Cards.css';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Hotels in the city of Eldoret</h1>
+      <h1>Hotels in Magical Kenya</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem 
-            src="boma_eldoret.jpg"
-            text="BOMA INN"
-            label="safari"
+            src="villarosa.jpg"
+            text="Nairobi"
+            label="Kempinski"
             path="/services/activity"
             ></CardItem>
             <CardItem 
-            src="eka.jpg"
-            text="THE GRAND EKA"
-            label="Safari"
+            src="whitesand.jpg"
+            text="Mombasa"
+            label="Whitesands"
             path="/services/activity"
             ></CardItem>
           </ul>
           <ul className='cards__items'>
             <CardItem 
-            src="starbucks.jpg"
-            text="STARBUCKS"
-            label="safari"
+            src="royalswiss.webp"
+            text="Kisumu"
+            label="Royal"
             path="/services/activity"
             ></CardItem>
             <CardItem 
-            src="sirikwa.jpg"
-            text="SIRIKWA HOTEL"
-            label="safari"
+            src="eka.jpg"
+            text="Eldoret"
+            label="EKA"
             path="/services/activity"
             ></CardItem>
             <CardItem 
-            src="noble.jpg"
-            text="Noble HOTEL "
-            label="safari"
+            src="sarovawoodlands.jpg"
+            text="Nakuru "
+            label="Sarova"
             path="/services/activity"
             ></CardItem>
           </ul>

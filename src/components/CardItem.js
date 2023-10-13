@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-// props will be coming from Cards.js
+// props will be coming from 
 function CardItem(props) {
   return (
     <>
