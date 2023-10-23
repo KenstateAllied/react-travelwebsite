@@ -20,9 +20,9 @@ function HeroSection() {
     <div className='hero-container'>
 
 <div className='eldy-pic'>
-      <img src='/images/kericho.jpg' alt='MAGICAL KENYA' /></div>
+      <img src='/images/Diani-Beach.webp' alt='MAGICAL KENYA' /></div>
       
-      <h2>COUNTY OF KERICHO 035 WELCOMES YOU TO THE MASHUJAA DAY 2023</h2>
+      <h2>Making plans for the holidays? Get your hotel room or cozy Air BnB anywhere in Kenya</h2>
 
      <p1> We are an IT firm using latest cutting edge technologies for web and App software development</p1>
 
