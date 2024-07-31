@@ -20,13 +20,13 @@ function HeroSection() {
     <div className='hero-container'>
 
 <div className='eldy-pic'>
-      <img src='/images/Diani-Beach.webp' alt='MAGICAL KENYA' /></div>
+      <img src='/images/eldoret.jpg' alt='MAGICAL KENYA' /></div>
       
-      <h2>Making plans for the holidays? Get your hotel room or cozy Air BnB anywhere in Kenya</h2>
+      <h2>ELDORET CITY STATUS INAGURATION ON AUG 8th. THE FIFTH CITY OF KENYA</h2>
 
      <p1> We are an IT firm using latest cutting edge technologies for web and App software development</p1>
 
-                visit us at https://kenstate-web.netlify.app
+                visit us at https://kenstates.netlify.app
 
        
             <p2>    We also move the market in cars, tractors,implements and spares trading and sales in Kenya </p2>

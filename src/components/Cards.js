@@ -5,8 +5,7 @@ import './Cards.css';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>Hotels in Magical Kenya</h1>
-      <div className='cards__container'>
+           <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem 
