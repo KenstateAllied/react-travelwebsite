@@ -62,7 +62,7 @@ function Footer() {
               HOTEL BOOKING <i className="fab fa-gripfire"></i>
             </Link>
           </div>
-          <small className='website-rights'>KenTours product of Kenstate Allied © 2023 All rights reserved</small>
+          <small className='website-rights'>KenTours product of Kenstate Allied © 2023-24 All rights reserved</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link facebook'
