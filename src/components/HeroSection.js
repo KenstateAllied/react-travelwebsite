@@ -22,15 +22,12 @@ function HeroSection() {
 <div className='eldy-pic'>
       <img src='/images/eldoret.jpg' alt='MAGICAL KENYA' /></div>
       
-      <h2>ELDORET CITY STATUS INAGURATION ON AUG 8th. THE FIFTH CITY OF KENYA</h2>
+      <h2>ELDORET IS IN BUSINESS - INAGURATION ON AUG 15th. THE 5th CITY OF KENYA</h2>
 
-     <p1> We are an IT firm using latest cutting edge technologies for web and App software development</p1>
-
-                visit us at https://kenstates.netlify.app
-
-       
-            <p2>    We also move the market in cars, tractors,implements and spares trading and sales in Kenya </p2>
-                 visit us at https://autotrac.netlify.app
+     <p1> Need a Website, Mobile App? Visit us https://kenstates.netlify.app </p1>
+                
+    <p2>    We also move the market in Cars, Tractors,Implements and Spares visit us at https://autotrac.vercel.app </p2>
+                 
    { /*<Link to="https://kenstate-web.netlify.app"> Need a website or app? Click to visit kenstate-web.netlify.app </Link>
       <p1>Need a website, app or have a software development project? Click to visit kenstate.netlify.app</p1>
           
