@@ -22,7 +22,7 @@ function HeroSection() {
 <div className='eldy-pic'>
       <img src='/images/eldoret.jpg' alt='MAGICAL KENYA' /></div>
       
-      <h2>ELDORET IS IN BUSINESS - INAGURATION ON AUG 15th. THE 5th CITY OF KENYA</h2>
+      <h2>ELDORET IS IN BUSINESS - 2024 CAC BIKE CHAMPIONSHIPS 9 - 13 Oct</h2>
 
      <p1> Need a Website, Mobile App? Visit us https://kenstates.netlify.app </p1>
                 
