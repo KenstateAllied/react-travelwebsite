@@ -20,13 +20,13 @@ function HeroSection() {
     <div className='hero-container'>
 
 <div className='eldy-pic'>
-      <img src='/images/eldoret.jpg' alt='MAGICAL KENYA' /></div>
+      <img src='/images/sankara.jpg' alt='MAGICAL KENYA' /></div>
       
-      <h2>ELDORET IS IN BUSINESS - 2024 CAC BIKE CHAMPIONSHIPS 9 - 13 Oct</h2>
+      <h2>Dynamic Listing of Hotels & Airbnbs Country wide</h2>
 
-     <p1> Need a Website, Mobile App? Visit us https://kenstates.netlify.app </p1>
-                
-    <p2>    We also move the market in Cars, Tractors,Implements and Spares visit us at https://autotrac.vercel.app </p2>
+     <p1> Need a Website, Mobile App? Enterprise applications Visit us https://apps.kenstate.co.ke </p1>
+     <p1> We are Experts in SEO, make your site rank highest. https://remote.kenstate.co.ke </p1>          
+    <p2>    We also move the market in Cars, Tractors,Implements and Spares visit us at https://autotrac.kenstate.co.ke</p2>
                  
    { /*<Link to="https://kenstate-web.netlify.app"> Need a website or app? Click to visit kenstate-web.netlify.app </Link>
       <p1>Need a website, app or have a software development project? Click to visit kenstate.netlify.app</p1>
